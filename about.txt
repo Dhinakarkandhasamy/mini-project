@@ -1,13 +1,1 @@
-Steps to create a project 
-
-first of all you need to conform what project would you do: i would love to do webdevelopement
-
-so webdevelopment is your domain, now you decide your project like ecommerse website or something
-
-and  then after choosing the project title you  need to create a files called html css and javascript or simply .html,.css,js
-
-in the html we used to create a structure of the webpage like add texts images videos etc..
-
-in css is used to style the html like change the color to the heading and creat a box or create a animations page layouts ect..
-
-and finally javascript is used to add eventlisteners , form valdation and etc...
+i created a navbar and home section now you can crete a service page 
